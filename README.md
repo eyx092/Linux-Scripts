@@ -2,4 +2,6 @@ To run these scripts, navigate to the same directory as the script using the ```
 
 
 
-createuser: Create a new standard user
+createnewstandarduser: Create a new standard user
+
+createnewrootuser: Create a new root user (root users can use sudo, standard users cannot)
