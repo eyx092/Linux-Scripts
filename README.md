@@ -7,3 +7,5 @@ createnewrootuser: Create a new root user (root users can use sudo, standard use
 createnewstandarduser: Create a new standard user
 
 ubuntudisableautoupdate: Disable automatic updates on Ubuntu
+
+ubuntuenableautoupdate: Enable automatic updates on Ubuntu
