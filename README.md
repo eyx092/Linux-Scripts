@@ -6,6 +6,8 @@ createnewrootuser: Create a new root user (root users can use sudo, standard use
 
 createnewstandarduser: Create a new standard user
 
+partialupdate: Update some system packages, and some 3rd-party packages
+
 ubuntudisableautoupdate: Disable automatic updates on Ubuntu
 
 ubuntuenableautoupdate: Enable automatic updates on Ubuntu
