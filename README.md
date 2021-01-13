@@ -2,12 +2,26 @@ To run these scripts, navigate to the same directory as the script using the ```
 
 ---
 
-createnewrootuser: Create a new root user (root users can use sudo, standard users cannot)
+- createnewrootuser.sh
 
-createnewstandarduser: Create a new standard user
+  - Create a new root user (root users can use sudo, standard users cannot)
 
-partialupdate: Update some system packages, and some 3rd-party packages
+- createnewstandarduser.sh
 
-ubuntudisableautoupdate: Disable automatic updates on Ubuntu
+  - Create a new standard user
 
-ubuntuenableautoupdate: Enable automatic updates on Ubuntu
+- fullupdate.sh
+
+  - Update all system packages, and all 3rd-party packages
+
+- partialupdate.sh
+
+  - Update some system packages, and some 3rd-party packages
+
+- ubuntudisableautoupdate.sh
+
+  - Disable automatic updates on Ubuntu
+
+- ubuntuenableautoupdate.sh
+
+  - Enable automatic updates on Ubuntu
